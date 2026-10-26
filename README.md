@@ -28,7 +28,6 @@ Skills that I use in my tech stack across my projects.
 
 [![React, Vite, Node.js, Express and PyTorch](https://skillicons.dev/icons?i=react,vite,nodejs,express,pytorch&theme=dark)](https://skillicons.dev)
 
-**SwiftUI** for iOS app development.
 
 ### Tools & Platforms
 
