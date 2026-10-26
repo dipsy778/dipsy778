@@ -1,8 +1,8 @@
 # dipsy778
 
-I specialise in **Web3 development**, with a focus on **crypto trading platforms, wallet experiences, and financial interfaces**. My interests include **UI/UX and the architecture of financial systems**.
+I specialise in **Web3 development**, with a focus on **crypto platforms, and financial interfaces**. My interests include **UI/UX and the architecture of financial systems**.
 
-I'm currently focused on **Parallel**, with an interest in interfaces that make complex tools easier to use.
+I'm currently focused on **Parallel**, with an interest in interfaces that bring multiple tools into one interface.
 
 I bootstrap most of my startups and projects, starting small and building them up as I go.
 
