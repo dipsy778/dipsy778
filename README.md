@@ -1,6 +1,6 @@
 # dipsy778
 
-I build web apps and explore ideas around **crypto, the Sui ecosystem, and product design**.
+I build web apps and explore ideas around **crypto, ui/ux, and architecture of financial systems**.
 
 I'm currently focused on **Parallel**, with an interest in interfaces that make complex tools easier to use.
 
@@ -27,7 +27,3 @@ Technologies I use across my projects.
 ### [parallel.rocks](https://parallel.rocks)
 
 A trading platform focused on the **Sui ecosystem**. I'm bringing wallet management, trading, and portfolio features together, with a focus on a polished experience across desktop and mobile.
-
-## Getting the Details Right
-
-I want Parallel to feel clear and consistent, from managing a wallet to checking a portfolio. That means paying attention to the layout, the flow between features, and how the experience works on both desktop and mobile.
