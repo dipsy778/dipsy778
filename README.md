@@ -1,4 +1,4 @@
-# Eddie
+# dipsy778
 
 I build web apps and explore ideas around **crypto, the Sui ecosystem, and product design**.
 
