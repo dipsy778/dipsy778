@@ -35,8 +35,8 @@ Skills that I use in my tech stack across my projects.
 
 ## What I'm Working On
 
-### [parallel.rocks](https://parallel.rocks)
-
 [![Parallel banner](assets/parallel-banner.webp)](https://parallel.rocks)
+
+**[parallel.rocks](https://parallel.rocks) · [Parallel Docs](https://docs.parallel.rocks/)**
 
 A trading platform focused on the **Sui ecosystem**. I'm bringing wallet management, trading, and portfolio features together, with a focus on a polished experience across desktop and mobile.
