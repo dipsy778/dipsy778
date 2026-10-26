@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="342" viewBox="0 0 440 342" role="img" aria-labelledby="window-title window-desc">
+  <title id="window-title">dipsy778 — Web3 developer</title>
+  <desc id="window-desc">A developer workspace for dipsy778, focused on Web3 and Parallel. Bootstrapping projects. Not looking for work.</desc>
+  <defs>
+    <linearGradient id="parallel-blue" x1="0" y1="0" x2=".25" y2="1">
+      <stop stop-color="#438BFF"/>
+      <stop offset="1" stop-color="#18519D"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#C8DCFF" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#C8DCFF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="438" height="340" rx="14"/></clipPath>
+    <clipPath id="desktop-motif-clip"><rect x="22" y="43" width="198" height="94" rx="2"/></clipPath>
+    <clipPath id="mobile-motif-clip"><rect x="12" y="31" width="64" height="84" rx="2"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+    .micro, .tab, .name { font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .micro { letter-spacing: .35px; }
+    .tab { font-size: 11px; }
+    .body { font-size: 16px; fill: #526780; }
+    .cursor { animation: cursor-blink 1.8s steps(1, end) infinite; }
+    .trace { animation: trace-flow 8s linear infinite; }
+    .glow { animation: soft-glow 6s ease-in-out infinite; }
+    @keyframes cursor-blink { 0%, 45%, 100% { opacity: 1; } 50%, 95% { opacity: 0; } }
+    @keyframes trace-flow { to { stroke-dashoffset: -62; } }
+    @keyframes soft-glow { 0%, 100% { opacity: .45; } 50% { opacity: .85; } }
+    @media (prefers-reduced-motion: reduce) {
+      .cursor, .trace, .glow { animation: none !important; }
+      .cursor { opacity: 1; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="440" height="342" fill="#F8FAFF"/>
+    <ellipse class="glow" cx="340" cy="170" rx="310" ry="220" fill="url(#halo)" opacity=".45"/>
+    <rect width="440" height="40" fill="#EDF2FA"/>
+    <path d="M0 40H440" stroke="#CAD5E7"/>
+    <path d="M18 17h4v4h-4zm6 0h4v4h-4zm-6 6h4v4h-4zm6 0h4v4h-4z" fill="#226CE0"/>
+    <text x="40" y="25" class="micro" font-size="10.5" fill="#526780">workspace / dipsy778</text>
+    <g transform="translate(350 20)" stroke="#7A8CA6" stroke-width="1.1" fill="none">
+      <path d="M0 0h10"/>
+      <rect x="30" y="-4" width="9" height="8"/>
+      <path d="M62-4l8 8m0-8l-8 8"/>
+    </g>
+    <rect x="16" y="41" width="142" height="37" fill="#FFFFFF"/>
+    <text x="30" y="64" class="tab" fill="#162541">profile.ts</text>
+    <circle cx="141" cy="60" r="3" fill="#226CE0"/>
+    <text x="176" y="64" class="tab" fill="#7A8CA6">stack.json</text>
+    <text x="312" y="64" class="tab" fill="#7A8CA6">parallel</text>
+    <path d="M0 79H440" stroke="#CAD5E7"/>
+    <path d="M16 78H158" stroke="#226CE0" stroke-width="2"/>
+    <text x="28" y="136" class="name" font-size="38" font-weight="700" letter-spacing="-2" fill="#162541">dipsy778<tspan class="cursor" fill="#127EAF">_</tspan></text>
+    <text x="28" y="168" font-size="19" font-weight="600" fill="#162541">Web3 developer</text>
+    <text x="28" y="201" class="body">Crypto platforms.</text>
+        <text x="28" y="224" class="body">Financial interfaces.</text>
+    <text x="28" y="256" class="micro" font-size="10" fill="#7A8CA6">CURRENT FOCUS</text>
+    <text x="132" y="256" class="micro" font-size="10" font-weight="700" fill="#226CE0">PARALLEL</text>
+    <g transform="translate(324 111)">
+          <rect width="88" height="148" rx="9" fill="#EDF4FF" stroke="#C7D9F3"/>
+          <path d="M13 23H75M13 124H75" stroke="#C7D9F3"/>
+          <g clip-path="url(#mobile-motif-clip)">
+            <path d="M40 35H53L26 112H13Z" fill="url(#parallel-blue)" opacity=".64"/>
+            <path d="M60 35H73L46 112H33Z" fill="url(#parallel-blue)" opacity=".86"/>
+            <path d="M80 35H93L66 112H53Z" fill="url(#parallel-blue)"/>
+          </g>
+          <path class="trace" d="M13 132H75" stroke="#127EAF" stroke-width="1.5" stroke-dasharray="9 53"/>
+          <circle cx="16" cy="12" r="2" fill="#226CE0"/>
+          <text x="26" y="16" class="micro" font-size="8" fill="#526780">PARALLEL</text>
+        </g>
+    <path d="M0 286H440" stroke="#CAD5E7"/>
+    <circle cx="31" cy="307" r="3" fill="#187D57"/>
+        <text x="43" y="311" class="micro" font-size="9.5" fill="#187D57">BOOTSTRAPPING PROJECTS</text>
+        <text x="28" y="330" class="micro" font-size="10" fill="#526780">Not looking for work</text>
+  </g>
+  <rect x=".5" y=".5" width="439" height="341" rx="14.5" fill="none" stroke="#CAD5E7"/>
+</svg>

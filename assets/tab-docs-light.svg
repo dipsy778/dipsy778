@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44" role="img" aria-label="DOCS">
+  <rect x=".5" y="2.5" width="143" height="41" rx="7" fill="#F5F8FE" stroke="#CAD5E7"/>
+  <path d="M12 2.5H52" stroke="#226CE0" stroke-width="2"/>
+  <rect x="12" y="13" width="22" height="20" rx="4" fill="#E7EEFC"/>
+  <text x="23" y="26.8" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#226CE0">↗</text>
+  <text x="44" y="26.8" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="600" letter-spacing=".45" fill="#162541">DOCS</text>
+</svg>
