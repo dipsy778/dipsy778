@@ -8,7 +8,7 @@ I'm currently focused on **Parallel**, with an interest in interfaces that make 
 
 ## Stack
 
-Technologies I use across my projects.
+Skills that I use in my tech stack across my projects.
 
 ### Languages
 
